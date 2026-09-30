@@ -1,5 +1,5 @@
 // ---- Edit these to update links site-wide ----
-const LINKEDIN = ""; // e.g. "https://www.linkedin.com/in/your-handle/"; links hide while empty
+const LINKEDIN = "https://www.linkedin.com/in/varun-kumar-c-n-015662303"; // e.g. "https://www.linkedin.com/in/your-handle/"; links hide while empty
 
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 let paused = reduceMotion;
